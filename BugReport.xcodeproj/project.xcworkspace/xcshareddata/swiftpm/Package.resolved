@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Pyramid",
+        "repositoryURL": "https://github.com/AddaMeSPB/Pyramid",
+        "state": {
+          "branch": null,
+          "revision": "68b7847fc861d1d6c906974e1b5f96c0639bdf5b",
+          "version": "0.1.4"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
